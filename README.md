@@ -2,11 +2,15 @@
 
 ## Description
 
-
+Describe the application and improvements made for accessibility (Use the assignment criteria as a guide)
 
 ## Table of Contents
 
-
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [License](#License)
 
 ## Installation
 
@@ -38,5 +42,5 @@
 
 ## Tests
 
-
+Gherkin Syntax of acceptance criteria here? 
 
