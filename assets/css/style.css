@@ -23,13 +23,15 @@ The font size will be 48px*/
     display: inline-block;
     font-size: 48px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/*The letters "seo" in Horiseon will be white*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/*The navigation bar in the header will contain 15px padding on top,
+a right margin of 20px,
+displayed to the right relative to the elements listed above, 
+Gill Sans font, size 20px.
+*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,30 +39,25 @@ The font size will be 48px*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/*No styling added to navigation bar unordered list*/
 .header nav ul {
     list-style-type: none;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/*The navigation bar list items will be displayed horizontally with a left margin of 25px*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/*URL display text will be white, with no text decoration.*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/*Paragraph font size will be 16px for the entire application*/
 p {
     font-size: 16px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .hero {
     height: 800px;
     width: 100%;
@@ -69,27 +66,23 @@ The font size will be 48px*/
     background-size: cover;
     background-position: center;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,32 +93,27 @@ The font size will be 48px*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -135,29 +123,25 @@ The font size will be 48px*/
     margin-bottom: 10px;
     text-align: center;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,8 +150,7 @@ The font size will be 48px*/
     background-color: #0072bb;
     color: #ffffff;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -176,8 +159,7 @@ The font size will be 48px*/
     background-color: #0072bb;
     color: #ffffff;
 }
-/*The main heading will be displayed inline horizontally.
-The font size will be 48px*/
+/**/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
