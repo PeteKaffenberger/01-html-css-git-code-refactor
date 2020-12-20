@@ -11,10 +11,10 @@ This application is a webpage for Horiseon. Horiseon is a search engine optimiza
 * [Usage](#Usage)
 * [Credits](#Credits)
 * [License](#License)
-* [Badges] (#Badges)
-* [Features] (#Features)
-* [Contributing] (#Contributing)
-* [Tests] (#Tests)
+* [Badges](#Badges)
+* [Features](#Features)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
 
 
 ## Installation
@@ -22,10 +22,10 @@ This application is a webpage for Horiseon. Horiseon is a search engine optimiza
 Coming soon!
 
 ## Usage
+ 
+ Below you'll find a screenshot of the intended appearance of this application. Click the links in the navigation bar at the top of the page in order to jump to specific sections. 
 
-```md
-![alt text](assets/images/HoriseonScreenshot.png)
-```
+![HoriseonWebsite](assets/images/HoriseonScreenshot.png)
 
 ## Credits
 
@@ -48,6 +48,7 @@ Coming soon!
 Features coming soon!
 
 ## Contributing
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
