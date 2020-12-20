@@ -1,3 +1,5 @@
+
+/*Establishing border box properties*/
 * {
     box-sizing: border-box;
     padding: 0;
